@@ -17,7 +17,7 @@ The code is open source, licensed under the MIT License, and the harware is open
 ## Hardware
 ###PCB
 The board design was made in Eagle, and is fully tested. A 500 mAh [LiPo Battery from Adafruit](https://adafru.it/1578) fits perfectly under the board. The board design can be freely modified. It can also directly be ordered on the OSHPark website: 
-<p align="center"><a href="https://oshpark.com/shared_projects/3zNSaolF"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a></p>
+<p align="center"><a href="https://oshpark.com/shared_projects/D0Ed6ISU"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a></p>
 
 ###Bill Of Materials
 You can find the BOM [here]().
