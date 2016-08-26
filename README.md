@@ -1,6 +1,6 @@
 # Retro|Watch 2
  <p align="center">
- <img src="https://github.com/RafaelRiber/Retro-Watch2/blob/master/Images/Assembled.jpeg?raw=true" width="400"/>
+ <img src="https://github.com/RafaelRiber/Retro-Watch2/blob/master/Images/Assembled.jpeg?raw=true" width="600"/>
  <em>Assembled Board</em>
  
 ## Short description
