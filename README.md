@@ -1,10 +1,7 @@
 # Retro|Watch 2
  <p align="center">
  <img src="" width="400"/>
- <em>Front</em>
- <p align="center">
- <bAssembled Board</b>
- </p>
+ <em>Assembled Board</em>
  
 ## Short description
 The Retro|Watch V2 is based around the HP QDSP-6064 Bubble display, used in 70s HP calculators like the [HP-35](https://en.wikipedia.org/wiki/HP-35). The display is controlled by an Atmel ATMega328U4 MCU with Arduino code and flashed with an Adafruit Feather 32U4 bootloader, and the time is kept by a Maxim DS3231 Real-Time Clock module, that stays connected to the LiPo battery at all times, keeping time even when the microcontroller and display are not powered.
