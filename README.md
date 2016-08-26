@@ -20,7 +20,7 @@ The board design was made in Eagle, and is fully tested. A 500 mAh [LiPo Battery
 <p align="center"><a href="https://oshpark.com/shared_projects/D0Ed6ISU"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a></p>
 
 ###Bill Of Materials
-You can find the BOM [here]().
+You can find the BOM [here](https://github.com/RafaelRiber/Retro-Watch2/blob/master/Hardware/BOM.csv).
   
 ##Software
 The software was written in Arduino code, is licensed under MIT License, and can be uploaded on the microcontroller via ISP.
