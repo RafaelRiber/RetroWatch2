@@ -18,7 +18,7 @@ The board design was made in Eagle, and is fully tested. A 500 mAh [LiPo Battery
 <p align="center"><a href="https://oshpark.com/shared_projects/D0Ed6ISU"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a></p>
 
 <h3>Bill Of Materials</h3>
-You can find the BOM [here](https://github.com/RafaelRiber/Retro-Watch2/blob/master/Hardware/BOM.csv).
+You can find the BOM here: https://github.com/RafaelRiber/Retro-Watch2/blob/master/Hardware/BOM.csv
   
 <h2>Software</h2>
 The software was written in Arduino code, is licensed under MIT License, and can be uploaded on the microcontroller via ISP.
@@ -33,7 +33,7 @@ Functions of the code include:
  
 To be able to upload the code on the watch, you will need to follow the same steps as V1 (see V1 repo), but using the Adafruit Feather 32U4 Bootloader instead of the ATMega328P one.
 <h3>Required Libraries</h3>
-1. Chrono library by thomasfredericks: https://github.com/thomasfredericks/Chrono
-2. Button library by JChristensen: https://github.com/JChristensen/Button
-3. RTCLib by Adafruit Industries: https://github.com/adafruit/RTClib
-4. SevSeg by SparkFun: https://github.com/sparkfun/SevSeg
+<p>1. Chrono library by thomasfredericks: https://github.com/thomasfredericks/Chrono
+<p>2. Button library by JChristensen: https://github.com/JChristensen/Button
+<p>3. RTCLib by Adafruit Industries: https://github.com/adafruit/RTClib
+<p>4. SevSeg by SparkFun: https://github.com/sparkfun/SevSeg
